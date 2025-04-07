@@ -93,10 +93,7 @@ If you encounter any issues:
 2. Ensure you have activated the virtual environment
 3. Check that all dependencies are properly installed
 4. If you see NumPy-related errors, make sure you're using NumPy 1.24.3
-
-## License
-
-[Add your license information here]
+   
 
 ## Acknowledgments
 
